@@ -2,11 +2,11 @@
 
 ## Setup
 
-1. a
-2. b
-3. c
-4. yarn install
-5. yarn dev
+1. Fork to your personal profile
+2. `git clone <your-forked-repo>`
+3. `cd <your-dir>`
+4. `yarn install`
+5. `yarn dev`
 6. Open browser window to 'localhost:3000'
 
 ### Startup
